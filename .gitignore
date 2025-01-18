@@ -1,3 +1,10 @@
+# Ignore Data
+*.csv
+*.nii
+*.nii.gz
+*.gz
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
