@@ -3,7 +3,7 @@
 *.nii
 *.nii.gz
 *.gz
-
+*.mgz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
