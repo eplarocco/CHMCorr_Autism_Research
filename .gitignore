@@ -5,6 +5,9 @@
 *.gz
 *.mgz
 
+# Ignore Large Outputs
+outputs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
