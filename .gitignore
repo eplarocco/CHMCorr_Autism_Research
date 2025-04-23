@@ -4,6 +4,10 @@
 *.nii.gz
 *.gz
 *.mgz
+*.tsv
+*.json
+*.xlsx
+*.pdf
 
 # Ignore Large Outputs
 outputs/
