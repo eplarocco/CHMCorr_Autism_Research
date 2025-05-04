@@ -8,9 +8,13 @@
 *.json
 *.xlsx
 *.pdf
+*.pth
+*.dat
+*.gv
+*.png
 
 # Ignore Large Outputs
-outputs/
+#outputs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
