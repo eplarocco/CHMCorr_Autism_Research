@@ -1,0 +1,64 @@
+epoch 1 average loss: 0.7219
+epoch 2 average loss: 0.7024
+current epoch: 2 current accuracy: 0.5251 best accuracy: 0.5251 at epoch 2
+epoch 3 average loss: 0.6982
+epoch 4 average loss: 0.7003
+current epoch: 4 current accuracy: 0.5251 best accuracy: 0.5251 at epoch 2
+epoch 5 average loss: 0.6974
+epoch 6 average loss: 0.6954
+current epoch: 6 current accuracy: 0.5217 best accuracy: 0.5251 at epoch 2
+epoch 7 average loss: 0.6985
+epoch 8 average loss: 0.6952
+current epoch: 8 current accuracy: 0.5284 best accuracy: 0.5284 at epoch 8
+epoch 9 average loss: 0.6955
+epoch 10 average loss: 0.6961
+current epoch: 10 current accuracy: 0.5117 best accuracy: 0.5284 at epoch 8
+epoch 11 average loss: 0.6970
+epoch 12 average loss: 0.6960
+current epoch: 12 current accuracy: 0.5518 best accuracy: 0.5518 at epoch 12
+epoch 13 average loss: 0.6952
+epoch 14 average loss: 0.6942
+current epoch: 14 current accuracy: 0.5217 best accuracy: 0.5518 at epoch 12
+epoch 15 average loss: 0.6939
+epoch 16 average loss: 0.6913
+current epoch: 16 current accuracy: 0.5251 best accuracy: 0.5518 at epoch 12
+epoch 17 average loss: 0.6937
+epoch 18 average loss: 0.6935
+current epoch: 18 current accuracy: 0.5284 best accuracy: 0.5518 at epoch 12
+epoch 19 average loss: 0.6913
+epoch 20 average loss: 0.6912
+current epoch: 20 current accuracy: 0.4916 best accuracy: 0.5518 at epoch 12
+epoch 21 average loss: 0.6902
+epoch 22 average loss: 0.6897
+current epoch: 22 current accuracy: 0.5217 best accuracy: 0.5518 at epoch 12
+epoch 23 average loss: 0.6842
+epoch 24 average loss: 0.6883
+current epoch: 24 current accuracy: 0.5050 best accuracy: 0.5518 at epoch 12
+epoch 25 average loss: 0.6859
+epoch 26 average loss: 0.6826
+current epoch: 26 current accuracy: 0.5418 best accuracy: 0.5518 at epoch 12
+epoch 27 average loss: 0.6881
+epoch 28 average loss: 0.6840
+current epoch: 28 current accuracy: 0.5452 best accuracy: 0.5518 at epoch 12
+epoch 29 average loss: 0.6836
+epoch 30 average loss: 0.6823
+current epoch: 30 current accuracy: 0.5284 best accuracy: 0.5452 at epoch 28
+epoch 31 average loss: 0.6730
+epoch 32 average loss: 0.6677
+current epoch: 32 current accuracy: 0.4749 best accuracy: 0.5518 at epoch 12
+epoch 33 average loss: 0.6574
+epoch 34 average loss: 0.6641
+current epoch: 34 current accuracy: 0.5251 best accuracy: 0.5518 at epoch 12
+epoch 35 average loss: 0.6469
+epoch 36 average loss: 0.6411
+current epoch: 36 current accuracy: 0.5585 best accuracy: 0.5585 at epoch 36
+epoch 37 average loss: 0.6351
+epoch 38 average loss: 0.6235
+current epoch: 38 current accuracy: 0.5284 best accuracy: 0.5585 at epoch 36
+epoch 39 average loss: 0.6233
+epoch 40 average loss: 0.6127
+current epoch: 40 current accuracy: 0.5284 best accuracy: 0.5585 at epoch 36
+epoch 41 average loss: 0.5973
+epoch 42 average loss: 0.5829
+current epoch: 42 current accuracy: 0.4749 best accuracy: 0.5585 at epoch 36
+epoch 43 average loss: 0.5769
