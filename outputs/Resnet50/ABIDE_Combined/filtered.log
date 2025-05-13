@@ -53,12 +53,3 @@ epoch 35 average loss: 0.1068
 epoch 36 average loss: 0.1146
 current epoch: 36 current accuracy: 0.4983 best accuracy: 0.5485 at epoch 18
 epoch 37 average loss: 0.1095
-epoch 38 average loss: 0.1075
-current epoch: 38 current accuracy: 0.4749 best accuracy: 0.5485 at epoch 18
-epoch 39 average loss: 0.0769
-epoch 40 average loss: 0.0508
-current epoch: 40 current accuracy: 0.5117 best accuracy: 0.5485 at epoch 18
-epoch 41 average loss: 0.0947
-epoch 42 average loss: 0.1038
-current epoch: 42 current accuracy: 0.5184 best accuracy: 0.5485 at epoch 18
-epoch 43 average loss: 0.0641
