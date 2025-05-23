@@ -17,13 +17,20 @@ Inputs: raw ABIDEI, ABIDEII, and ACE datasets - Saved in Original_Data folder (a
 
 Combines ABIDEI and ABIDEII datasets for training
 
+### Environment
+source ../pretrainedresnet2/bin/activate
+
 #### Start training from pre-trained Medical ResNet50
 
 python ../Autism-3D-CNN-brain-sMRI/train_medicalnet.py 'JustBrain_Data/ABIDE_COMBINED' 'Preprocessed_Data/ABIDE_COMBINED' './outputs/Resnet50/ABIDE_Combined' '../Autism-3D-CNN-brain-sMRI/resnet_training/resnet_10.pth' --lr 0.0003 --batch 8 --epochs 10
+
+- you can swap resnet_10.pth for any of the models available in the resnet_training directory. the models ending with _23dataset.pth contain the updated pretrained weights (with 23 datasets) - more info found here: https://github.com/Tencent/MedicalNet
+
+- Models downloaded include resnet 10, 18, 34, and 50 - more models can be downloaded thought the above link
 
 
 #### Evaluate on Test Set (swap checkpoint_X.pth) for whichever epoch performed the best
 
 python ../Autism-3D-CNN-brain-sMRI/predict_medicalnet_subids.py 'Preprocessed_Data/ABIDE_COMBINED/test' 'outputs/Resnet50/ABIDE_Combined/test/subjects.csv' './outputs/Resnet50/ABIDE_Combined/checkpoint_18.pth' './outputs/Resnet50/ABIDE_Combined/test'
 
-# Relies on eplarocco/Autism-3D-CNN-brain-sMRI repo (including saved resnet model path - must upload manually) and folders in this repo: JustBrain_Data and Preprocessed_Data - saves results to outputs/Resnet50/
+#### Relies on eplarocco/Autism-3D-CNN-brain-sMRI repo (including saved resnet model path - must upload manually) and folders in this repo: JustBrain_Data and Preprocessed_Data - saves results to outputs/Resnet50/
